@@ -1,4 +1,4 @@
-Retrouvez les créations de ce-ceramique sur son [site](ce-ceramique@github.io).
+Retrouvez les créations de ce-ceramique sur son [site](ce-ceramique@github.io).\n
 Check Cé's creations on the [website](ce-ceramique@github.io).
 
 ## On the website template
